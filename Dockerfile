@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:16.04.5
 MAINTAINER ARM <doug.anson@arm.com>
 EXPOSE 22/tcp
 EXPOSE 8081/tcp
