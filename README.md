@@ -1,7 +1,7 @@
 Blockchain UI Monitor Container
 
 Install directly into Bluemix as a Container:
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ARMmbed/blockchain-ui-monitor.git)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ARMmbed/blockchain-monitor-ui.git)
 
 
 Copyright 2015. ARM Ltd. All rights reserved.
